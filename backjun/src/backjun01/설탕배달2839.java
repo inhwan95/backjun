@@ -38,5 +38,3 @@ public class 설탕배달2839 {
 		System.out.println(five+three);
 	}
 }
-
-
